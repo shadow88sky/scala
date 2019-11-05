@@ -7,6 +7,7 @@ object printDemo{
         var age:Int = 10
         var sal:Float = 10.67f
         var height:Double = 180.15
+
         printf("名字%s 年龄%d 薪水%.2f 身高%.3f",name,age,sal,height)
 
         // scala支持使用$输出内容
